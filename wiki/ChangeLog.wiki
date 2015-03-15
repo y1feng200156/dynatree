@@ -1,5 +1,4 @@
 #summary Main changes in recent releases.
-#labels Featured
 
 <wiki:toc max_depth="4" />
 
